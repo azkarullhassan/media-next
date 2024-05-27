@@ -11,7 +11,7 @@ const Footer = () => {
             </div>
            
             <div className='pt-8'>
-              <h1 className='font-normal text-[12px] text-white '>Copyright © 2023 Designify. All Rights Reserved</h1>
+              <h1 className='font-normal text-[12px] text-white '>Copyright © 2024 Azkar ull hassan. All Rights Reserved</h1>
             </div>
           </div>
       </main>
