@@ -41,15 +41,15 @@ const Eight = () => {
         </div>
 
         <div className='bg-white md:w-1/2 rounded-2xl p-8 shadow-xl'>
-          <h1 className='font-extrabold text-[24px]'>“Rising star in the creative industry”</h1>
-          <h2 className='font-semibold text-[18px] pt-5'>Alex (and AMT MEDIA) is a rising star in the creative industry, especially in the real estate market. He has helped tremendously in building my online brand on social media platforms. I highly recommend working with him!</h2>
+          <h1 className='font-extrabold text-[24px]'>“Rising star in the crejed industry”</h1>
+          <h2 className='font-semibold text-[18px] pt-5'>Alex (and AMT MEDIA) is a rising star the in  creative industry, especially in the real estate market. He has helped tremendously in building my online brand on social media platforms. I highly recommend working with him!</h2>
           <div className='flex flex-row gap-4 pt-5'>
             <div>
             <img src="/src/image.png" alt="" />
             </div>
             <div>
-             <h1 className='font-extrabold text-[18px]'>Murdock Richard</h1>
-             <h2 className='font-medium text-[18px]'>Lower Financial</h2>
+             <h1 className='font-extrabold text-[18px]'>Hardik pandaya</h1>
+             <h2 className='font-medium text-[18px]'>higher finincial</h2>
             </div>
           </div>
         </div>
