@@ -7,7 +7,7 @@ const Eight = () => {
     
     <div className='flex md:flex-row flex-col justify-center gap-28'>
         <div className='bg-white md:w-1/2 rounded-2xl p-8 shadow-xl'>
-          <h1 className='font-extrabold text-[24px]'>“Rising star in the creative industry”</h1>
+          <h1 className='font-extrabold text-[24px]'>“ Lorem ipsum dolor sit amet consectetur. ”</h1>
           <h2 className='font-semibold text-[18px] pt-5'>Alex (and AMT MEDIA) is a rising star in the creative industry, especially in the real estate market. He has helped tremendously in building my online brand on social media platforms. I highly recommend working with him!</h2>
           <div className='flex flex-row gap-4 pt-5'>
             <div>
@@ -28,20 +28,20 @@ const Eight = () => {
     <div className='flex md:flex-row flex-col justify-center gap-28 pt-10'>
         <div className='bg-white md:w-1/2 rounded-2xl p-8 shadow-xl'>
           <h1 className='font-extrabold text-[24px]'>“Rising star in the creative industry”</h1>
-          <h2 className='font-semibold text-[18px] pt-5'>Alex (and AMT MEDIA) is a rising star in the creative industry, especially in the real estate market. He has helped tremendously in building my online brand on social media platforms. I highly recommend working with him!</h2>
+          <h2 className='font-semibold text-[18px] pt-5'>Alex (and AMT MEDIA) Lorem ipsum dolor sit. industry, especially in the real estate market. He has helped tremendously in building my online brand on social media platforms. I highly recommend working with him!</h2>
           <div className='flex flex-row gap-4 pt-5'>
             <div>
             <img src="/src/image.png" alt="" />
             </div>
             <div>
-             <h1 className='font-extrabold text-[18px]'>Murdock Richard</h1>
+             <h1 className='font-extrabold text-[18px]'>Queen alizebet</h1>
              <h2 className='font-medium text-[18px]'>Lower Financial</h2>
             </div>
           </div>
         </div>
 
         <div className='bg-white md:w-1/2 rounded-2xl p-8 shadow-xl'>
-          <h1 className='font-extrabold text-[24px]'>“Rising star in the crejed industry”</h1>
+          <h1 className='font-extrabold text-[24px]'>“ Lorem ipsum dolor sit amet consectetur. ”</h1>
           <h2 className='font-semibold text-[18px] pt-5'>Alex (and AMT MEDIA) is a rising star the in  creative industry, especially in the real estate market. He has helped tremendously in building my online brand on social media platforms. I highly recommend working with him!</h2>
           <div className='flex flex-row gap-4 pt-5'>
             <div>
