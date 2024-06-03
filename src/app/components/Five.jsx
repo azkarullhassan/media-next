@@ -26,7 +26,7 @@ const Five = () => {
                 <div className='bg-white rounded-xl p-5 shadow-xl'>
                     <h1 className='font-extrabold text-[54px] text-[#FF6947]'>01</h1>
                     <h2 className='font-extrabold text-[24px]'>Schedule a Consultation:</h2>
-                    <p className='font-medium text-[18px]  pt-3'>Start your journey with a personal consultation with our team. This meeting helps us understand your needs, goals, and challenges. It's a great chance to ask questions and see what your brand could achieve with professional video content.</p>
+                    <p className='font-medium text-[18px]  pt-3'>Start yo sdfgh dfgh tyuin cvn tyui opkhf  with our team. This meeting helps us understand your needs, goals, and challenges. It's a great chance to ask questions and see what your brand could achieve with professional video content.</p>
 
                 </div>
             </div>
