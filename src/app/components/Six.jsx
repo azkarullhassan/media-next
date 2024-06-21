@@ -25,7 +25,7 @@ const Six = () => {
                <div className='shadow-xl p-10 rounded-lg'>
                 <img src="/src/333.png" alt="" className='h-16'/>
                 <h1 className='font-extrabold text-[22px]'>Customized Content Creation</h1>
-                <p className='font-medium text-[17px]'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, eligendi? qualities of your real estate brand, ensuring your online presence is as distinctive and individual as the properties you represent.</p>
+                <p className='font-medium text-[17px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, aliquam! elit. Hic, eligendi? qualities of your real estate brand, ensuring your online presence is as distinctive and individual as the properties you represent.</p>
                </div>
             </div>
 
