@@ -17,7 +17,7 @@ const Four = () => {
         <div className=' pt-44 pl-8'>
          <h1 className="font-extrabold text-[44px]">Introducing Your Win- <span className='text-[#FF6947]'>Win Solution</span></h1>
           <p className='font-normal text-[18px] pt-6'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, corrupti. undivided attention, and unmatched reliability, we pledge to make you feel valued and understood. </p>
-           <p className='font-normal text-[18px] pt-14'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem, debitis. um, ipsam quaerat! we see a clear path to mutual success.</p>
+           <p className='font-normal text-[18px] pt-14'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, a? Quidem, debitis. um, ipsam quaerat! we see a clear path to mutual success.</p>
           
         </div>
       </div>
